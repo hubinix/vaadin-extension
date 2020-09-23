@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.kingsoft.shiyou</groupId>
     <artifactId>qvaadin</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <packaging>pom</packaging>
     <properties>
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
@@ -36,6 +36,7 @@
     <modules>
         <module>runtime</module>
         <module>deployment</module>
+        <module>example</module>
     </modules>
 
 

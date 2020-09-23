@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <artifactId>qvaadin-extension-deployment</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <parent>
         <artifactId>qvaadin</artifactId>
         <groupId>com.kingsoft.shiyou</groupId>
-        <version>0.0.1</version>
+        <version>0.0.3</version>
     </parent>
 
     <properties>
@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.kingsoft.shiyou</groupId>
             <artifactId>qvaadin-extension</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.3</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
